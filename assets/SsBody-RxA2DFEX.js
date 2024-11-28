@@ -1,0 +1,1 @@
+import{j as s}from"./jsx-runtime-CkxqCPlQ.js";const a=e=>s.jsx("div",{className:`body ${e.className}`,children:e.children});a.__docgenInfo={description:"",methods:[],displayName:"SsBody",props:{className:{required:!1,tsType:{name:"string"},description:""},children:{required:!1,tsType:{name:"ReactReactNode",raw:"React.ReactNode"},description:""}}};export{a as S};
